@@ -7,6 +7,9 @@ from copy import deepcopy
 #--------------------------------------------------------------------------------------------------------------------------------
 #pygame and manager initiation
 
+
+#adding a comm
+
 pygame.init()
 
 global SCREEN
